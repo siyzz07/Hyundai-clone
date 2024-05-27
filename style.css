@@ -1,0 +1,504 @@
+body
+{
+    margin: 0px;
+    padding: 0px;
+}
+
+.navbar
+{
+    width: 100%;
+    height: 72px;
+   display: flex; 
+   /* position: sticky;
+   top: 0px;
+   background-color: white; */
+   
+}
+
+.logo
+{
+    width: 20%;
+    height: 72px;
+    box-shadow: 0px 2px 0px 0px rgb(196, 193, 193);
+
+}
+
+.image
+{
+    height: 44px;
+    padding-left: 45px;
+    padding-left: 174px;
+    padding-top: 24px;
+}
+
+ul
+{
+    display: flex;
+    list-style: none;
+
+}
+
+.rightnav
+{
+    width: 80%;
+    padding: 12px;
+    padding-top: 13px;
+   
+    box-shadow: 0px 2px 0px 0px rgb(196, 193, 193);
+}
+
+
+ul li
+{
+    padding-left: 30px;
+    font-size: 17px;
+    font-family: sans-serif ;
+    color: black;
+    
+
+
+}
+ul li a{
+    text-decoration: none;
+    color: black;
+}
+
+.icon
+{
+    width: 18px;
+    height: 20px;
+}
+
+.main-body
+{
+    width: 100%;
+    height: 1000px;
+    background-color: #e6e3e3;
+}
+
+/* .....navbar..... */
+
+.second-nav
+{
+    width:1339px;
+    height: 90px;
+   background-color: #e6e3e3;
+   display: flex;
+   padding-left: 180px;
+   
+}
+
+.ab
+{
+    display: flex;
+    padding-left: 20px;
+    padding-top: 30px;
+}
+
+.s-p
+{
+    color: black;
+    font-family: sans-serif 
+}
+
+
+/* ........second navbar */
+
+.first-image
+{
+    width: 100%;
+    height: 540px;
+    background-color: #e6e3e3;
+   
+}
+
+.image1
+{
+    
+    width: 1505px;
+    align-items: center;
+    height: 540px;
+    padding-left: 13px;
+}
+
+/* .....first image ..... */
+
+.third-navbar
+{
+    width: 100%;
+    height: 62px;
+    background-color:#002c5f;
+    display: flex;
+    padding-top: 14px;
+    align-content: center;
+    position: sticky;
+    top: 0px;
+    margin-top: 1px;
+    
+}
+
+.third-navbar-in{
+    margin-left: 211px;
+    display: flex;
+}
+
+.third-link
+{
+    display: flex;
+}
+
+.third-nav-icon{
+    width: 39px;
+    height: 30px;
+    padding-left: 69px;
+    padding-top: 13px;
+}
+
+.third-nav-para{
+    color: white;
+    padding-left: 35px;
+    padding-top: 4px;
+}
+
+.third-nav-para:hover
+{
+    text-decoration: underline;
+}
+
+
+/* ....third navbar... */
+
+.forth-navbar{
+    width: 100%;
+    height:62px;
+    display: flex;
+    position: sticky;
+    top: 63px;
+    background-color: white;
+}
+
+
+.fourth-left{
+    width: 16%;
+   
+}
+
+.fourth-center
+{
+    width: 64%;
+    
+}
+
+.fourth-right
+{
+    width: 20%;
+  
+    display: flex;
+
+}
+
+
+.fourth-a{
+    text-decoration: none;
+    font-family:sans-serif
+}
+.fourth-p
+{
+  
+    padding-left: 0px;
+    padding-top: 0px;
+    font-weight: bold;
+    font-family:sans-serif;
+    color: black;
+}
+
+.fourth-right-left
+{
+    width: 10%;
+}
+.fourth-right-right
+{
+    width: 90%;
+}
+
+.sub-body
+{
+    padding: 187px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+
+}
+.sub-body-para1
+{
+    font-family: sans-serif ;
+    font-size: larger;
+    padding-top: 30px;
+    line-height: 30px;
+}
+
+.sub-body-vedio1{
+    width: 100%;
+}
+
+.sub-body-head
+{
+    padding-top: 2px;
+}
+
+
+
+/*1st para and vedio*/
+
+
+.slide1
+{
+    display: flex;
+    margin-left: 40px;
+    margin-left: 126px;
+}
+
+.slide1-image
+{
+    width: fit-content;
+    height: 362px;
+    padding-left: 40px;
+}
+
+
+/* <!-- ..............imge sliser 1........ --> */ 
+
+.slide2
+{
+    margin-left: 185px;
+}
+        
+
+
+/* .........twin image slider.......... */
+
+
+   
+
+/* ........last multy slide image.... --> */
+
+.second-last-button
+{
+    width: 287px;
+    height: 48px;
+    background:#002c5f;
+    border-radius: 0px;
+    margin-left: 436px;
+    margin-top: 55px;
+    border: none;
+    cursor: pointer;
+
+}
+
+.last-button-name
+{
+    color: white;
+    font-weight: normal;
+    font-family: sans-serif ;
+}
+
+.book-container
+{
+    width: 100%;
+    height: 210px;
+    background: rgb(222 210 195);
+    text-align: center;
+}
+
+.last-button
+{
+    width: 287px;
+    height: 48px;
+    background:#002c5f;
+    margin-left: 22px;
+    margin-top: 18px;
+    cursor: pointer;
+}
+
+.extirior
+{
+    width: 100%;
+    height: 150px;
+    background: rgb(222 210 195);
+    margin-top: 50px;
+    
+}
+
+.extirior-link
+{
+    font-size: 40px;
+    font-weight: bold;
+    float: right;
+    padding-right: 222px;
+    padding-top: 61px;
+    color: black;
+    font-family: sans-serif;
+
+}
+
+/* ............................ */
+
+.form-size
+{
+    width: 1120px;
+    height: 30px;
+    border-color:rgb(222 210 195);
+    border: 1px solid rgb(222 210 195);
+
+}
+
+.form-label
+{
+    font-weight: 500px;
+    font-family: sans-serif;   
+}
+
+.form-size-s
+{
+    width: 372px;
+    height: 30px;
+    border-color:rgb(222 210 195);
+    border: 1px solid rgb(222 210 195);
+
+}
+
+.submit
+{
+    width: 100%;
+    height: 70px;
+    margin-top: 56px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+
+}
+
+/* ..............form........ */
+
+.checkout{
+width: 100%;
+height: 262px;
+background: rgb(222 210 195);
+margin-top: 50px;
+display: flex;
+}
+
+.checkout-left
+{
+    width: 37%;
+    
+}
+
+.checkout-center
+{
+    width: 16%;
+    align-items: center;
+}
+
+.checkout-right
+{
+    width: 47%;
+    
+}
+
+.checkout-center img{
+    width: fit-content;
+    height: 130px;
+}
+
+.checkout-button
+{
+    width: 127px;
+    height: 30px;
+    background:  #002c5f;
+    color:white;
+    font-family: sans-serif; 
+    margin-top: 175px;  
+}
+
+.checkout-left-para{
+    font-family: sans-serif ;
+    font-size: 25px;
+    float: right;
+    margin-top: 151px;
+    
+}
+
+
+/* ............check..... */
+
+.explore
+{
+   width: 100%;
+   height: 400px; ;
+}
+
+
+.explore-image
+{
+    display: flex;
+    white-space: nowrap;
+}
+
+
+/* ......... */
+
+.footr-body
+{
+    width: 100%;
+    height: 542px;
+    display: flex;
+    background: #252525;
+    margin-top: 50px;
+}
+
+.footr-body-part1
+{
+    width: 20%;
+    height: 542px;
+    
+    
+}
+
+.footr-body-part2
+{
+    width: 60%;
+    height: 542px;
+    
+    display: flex;
+   
+}
+
+.footr-body-part3
+{
+    width: 20%;
+    height: 542px;
+   
+    padding: 3px;
+   
+}
+
+.h3-footer
+{
+    color:rgb(255, 255, 255);
+    font-family: sans-serif ;
+    text-align: initial;
+}
+.dl-style{
+    margin-left: 0px;
+    color: rgb(193, 183, 166);
+    font-family: sans-serif;
+    line-height: 33px;
+}
+.dl-style:hover
+{
+ color: white;
+}
+
+
+
+
